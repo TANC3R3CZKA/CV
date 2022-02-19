@@ -1,2 +1,2 @@
 # TestGH
-Test GitHub
+Kod źródłowy do strony
