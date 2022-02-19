@@ -1,2 +1,2 @@
 # Kod
-Kod źródłowy do strony w CV_final_version
+Kod źródłowy do strony w CV-final_version
